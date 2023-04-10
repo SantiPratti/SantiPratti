@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SantiModsz
-- 👀 I’m interested in develop things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me ...
+# I, I'm Santiago Pratti!
 
-<!---
-SantiModsz/SantiModsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a high school student, i'm learning python and IA things ( i really love IA).
+I have few repositories and proyects but i'm working hard everyday!
+![alt text](https://i.ibb.co/F0vVrWr/descarga-u44-Yv-Ww-Wi-transformed.jpg)
