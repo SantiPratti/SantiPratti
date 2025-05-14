@@ -1,50 +1,50 @@
-**Hola! Mi nombre es Santiago Pratti
-
-**<p align="center">
-  <img src="https://imgur.com/your-logo.png" alt="Logo del Proyecto" width="150" />
-</p>
-
-<h1 align="center" style="color:#e91e63;">💖 Mi Proyecto Increíble 💖</h1>
+<h1 align="center" style="color:#e91e63;">🌸 Santiago Emiliano Pratti 🌸</h1>
 
 <p align="center">
-  Una aplicación pensada con amor, construida con pasión y estilo rosado.
+  <img src="https://imgur.com/your-photo.png" width="150" alt="Santiago" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/tuusuario/tu-proyecto">
-    <img src="https://img.shields.io/badge/Visitar%20Repositorio-e91e63?style=for-the-badge&logo=github&logoColor=white" />
+  💻 Estudiante de Historia y Análisis de Sistemas | 🎮 Fan de Red Dead Redemption 2  
+  <br>📍 Junín, Buenos Aires | ✉️ santiagopratti5@gmail.com
+</p>
+
+---
+
+### 💖 Sobre mí
+
+- 🎓 Estudio profesorado de Historia y Análisis de Sistemas
+- 🧠 Me apasiona la tecnología, programar y aprender cosas nuevas
+- 💬 Me gusta hablar con la gente, ayudar y compartir ideas
+- 🎨 También dibujo y disfruto de la buena música (The Smiths ❤️)
+
+---
+
+### 🚀 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-e91e63?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ff4081?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f06292?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f8bbd0?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-ec407a?style=for-the-badge&logo=react&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoPratti&show_icons=true&theme=rose_pine&icon_color=e91e63&title_color=ff80ab" />
+</p>
+
+---
+
+### ☕ Contacto
+
+<p align="center">
+  <a href="mailto:santiagopratti5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tu-proyecto-demo.com">
-    <img src="https://img.shields.io/badge/Probar%20Demo-ff4081?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-ff4081?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🌸 Capturas de pantalla
-
-<p align="center">
-  <img src="https://imgur.com/imagen1.png" width="600" alt="Captura de pantalla 1" />
-</p>
-<p align="center">
-  <img src="https://imgur.com/imagen2.png" width="600" alt="Captura de pantalla 2" />
-</p>
-
----
-
-## ✨ Características
-
-- 🌷 Interfaz amigable y hermosa
-- 💾 Guardado automático de datos
-- 🎀 Modo rosado para endulzar tus días
-- 🌈 Compatible con todos los dispositivos
-
----
-
-## 🚀 Instalación
-
-```bash
-git clone https://github.com/tuusuario/tu-proyecto.git
-cd tu-proyecto
-npm install
-npm start
