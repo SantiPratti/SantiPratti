@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Estudiante de Historia y Análisis de Sistemas | 🎮 Fan de Red Dead Redemption 2  
+  💻 Estudiante de Análisis de Sistemas | 🎮 Fan de Red Dead Redemption 2  
   <br>📍 Junín, Buenos Aires | ✉️ santiagopratti5@gmail.com
 </p>
 
@@ -13,10 +13,10 @@
 
 ### 💖 Sobre mí
 
-- 🎓 Estudio profesorado de Historia y Análisis de Sistemas
+- 🎓 Estudio Análisis de Sistemas
 - 🧠 Me apasiona la tecnología, programar y aprender cosas nuevas
 - 💬 Me gusta hablar con la gente, ayudar y compartir ideas
-- 🎨 También dibujo y disfruto de la buena música (The Smiths ❤️)
+- 🎨 También dibujo y disfruto de la buena música (Charly Garcia ❤️)
 
 ---
 
